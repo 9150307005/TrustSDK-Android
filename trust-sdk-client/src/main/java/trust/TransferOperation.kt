@@ -1,4 +1,4 @@
-package trust
+package trust:2.0
 
 import android.net.Uri
 import java.math.BigDecimal
